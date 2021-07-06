@@ -1,1 +1,1 @@
-# Otus-Python-Professional
+# Otus-Python-Developer-Professional
